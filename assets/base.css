@@ -3575,7 +3575,3 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
-
-.gradient {
-  background: rgb(0, 255, 55);
-}
